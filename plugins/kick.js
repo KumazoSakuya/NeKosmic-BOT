@@ -20,4 +20,3 @@ handler.fail = null
 handler.limit = false
 
 module.exports = handler
-
